@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.center{
+    text-align: center;
+}
+/* .number h1 {
+    font-size: 100px;
+} */
+.form-group{
+    margin-top: 20px;
+}
